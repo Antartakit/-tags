@@ -1,4 +1,4 @@
-# -tags
+# $tags
 $tags - An easy way to implement HTML tags within a page while using document.getElementById("ID").innerHTML
 
 $tags is a library of HTML tags that can be implemented in a HTML page with document.getElementById("ID").innerHTML.
